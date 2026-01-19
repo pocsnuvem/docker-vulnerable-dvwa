@@ -1,4 +1,4 @@
-FROM debian:bookworm-20240701
+FROM debian:12.13
 
 LABEL maintainer "opsxcq@strm.sh"
 
